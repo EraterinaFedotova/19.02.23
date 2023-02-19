@@ -1,0 +1,16 @@
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\53\bin\Debug\net6.0\53.exe
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\53\bin\Debug\net6.0\53.deps.json
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\53\bin\Debug\net6.0\53.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\53\bin\Debug\net6.0\53.dll
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\53\bin\Debug\net6.0\ref\53.dll
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\53\bin\Debug\net6.0\53.pdb
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\53\obj\Debug\net6.0\53.GlobalUsings.g.cs
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\53\obj\Debug\net6.0\53.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\53\obj\Debug\net6.0\53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\53\obj\Debug\net6.0\53.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\53\obj\Debug\net6.0\53.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\53\obj\Debug\net6.0\53.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\53\obj\Debug\net6.0\53.dll
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\53\obj\Debug\net6.0\ref\53.dll
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\53\obj\Debug\net6.0\53.pdb
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\53\obj\Debug\net6.0\53.genruntimeconfig.cache
