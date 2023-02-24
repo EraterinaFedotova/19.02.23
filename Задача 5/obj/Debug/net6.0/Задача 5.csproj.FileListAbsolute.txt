@@ -4,3 +4,13 @@ C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23
 C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\Задача 5\obj\Debug\net6.0\Задача 5.AssemblyInfoInputs.cache
 C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\Задача 5\obj\Debug\net6.0\Задача 5.AssemblyInfo.cs
 C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\Задача 5\obj\Debug\net6.0\Задача 5.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\Задача 5\bin\Debug\net6.0\Задача 5.exe
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\Задача 5\bin\Debug\net6.0\Задача 5.deps.json
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\Задача 5\bin\Debug\net6.0\Задача 5.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\Задача 5\bin\Debug\net6.0\Задача 5.dll
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\Задача 5\bin\Debug\net6.0\ref\Задача 5.dll
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\Задача 5\bin\Debug\net6.0\Задача 5.pdb
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\Задача 5\obj\Debug\net6.0\Задача 5.dll
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\Задача 5\obj\Debug\net6.0\ref\Задача 5.dll
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\Задача 5\obj\Debug\net6.0\Задача 5.pdb
+C:\Users\Пользователь\Desktop\Домашняя работа\19.02.23\Задача 5\obj\Debug\net6.0\Задача 5.genruntimeconfig.cache
